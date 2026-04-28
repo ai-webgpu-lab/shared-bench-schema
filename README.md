@@ -20,6 +20,7 @@
 - 전체 Pages/demo 상태는 `docs-lab-roadmap/docs/PAGES-STATUS.md`에서 확인합니다.
 - 이 저장소의 live demo는 `https://ai-webgpu-lab.github.io/shared-bench-schema/`에서 확인합니다.
 - 결과 스키마 변경은 `docs-lab-roadmap/docs/INTEGRATION-STATUS.md`와 각 `RESULTS.md` 운영 규칙에 맞춰 반영합니다.
+- sketch capabilities는 `docs-lab-roadmap/docs/SKETCH-METRICS.md`에서 확인합니다.
 
 ## 사용 방식
 - 실험, 벤치마크, 앱 저장소는 이 저장소의 스키마와 템플릿을 기준으로 결과 파일을 복제합니다.
